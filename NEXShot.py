@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Modify History : Neel => Nex => NexShot (BlankNameUser) (Neel)
+# Modify History : rofl0r => Neel => Neel (NeX) (Neel)
 # VERSION 1.0.1
 # Open Source Code.No Need More Modification.
 import sys, subprocess, os, tempfile, shutil, re, codecs, socket, pathlib, time, collections, statistics, collections, csv, http.client, marshal
