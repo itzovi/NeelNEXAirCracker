@@ -679,7 +679,7 @@ class Companion:
             try:
                 self.__wps_connection(bssid, pin, pixiemode)
             except KeyboardInterrupt:
-                print("\nhttps://github.com/Gtajisan…")
+                print("\nhttps://github.com/ItzOvi…")
                 self.__savePin(bssid, pin)
                 return False
         else:
