@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Modify History : rofl0r => FARHAN => Mohammad_Alamin (Toxinum) (FARHAN)
+# Modify History : Neel => Nex => NexShot (BlankNameUser) (Neel)
 # VERSION 1.0.1
 # Open Source Code.No Need More Modification.
 import sys, subprocess, os, tempfile, shutil, re, codecs, socket, pathlib, time, collections, statistics, collections, csv, http.client, marshal
@@ -996,13 +996,14 @@ class WiFiScanner:
 	
 SIMPLE WIFI HACKING TOOL
 
-███████╗██╗░░██╗███╗░░██╗
-██╔════╝██║░░██║████╗░██║
-█████╗░░███████║██╔██╗██║
-██╔══╝░░██╔══██║██║╚████║
-██║░░░░░██║░░██║██║░╚███║
-╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝\n\t\t\033[1;36mFARHAN-MUH-TASIM 
-                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : FARHAN MUH TASIM\n\t\t[\033[1;32m*\033[1;37m] WORK ONLY   : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : Farhan \n\t\t[\033[1;32m*\033[1;37m] Version     : FARHAN2.0 \n\t\t[\033[1;32m*\033[1;37m] FACEBOOK    : @FARHAN MUH TASIM \n''')
+| \ | |         /  ___| |         | |   | ___ \       | \ | |         | |
+|  \| | _____  _\ `--.| |__   ___ | |_  | |_/ /_   _  |  \| | ___  ___| |
+| . ` |/ _ \ \/ /`--. \ '_ \ / _ \| __| | ___ \ | | | | . ` |/ _ \/ _ \ |
+| |\  |  __/>  </\__/ / | | | (_) | |_  | |_/ / |_| | | |\  |  __/  __/ |
+\_| \_/\___/_/\_\____/|_| |_|\___/ \__| \____/ \__, | \_| \_/\___|\___|_|
+                                                __/ |                    
+                                               |___/                     \n\t\t\033[1;36mNexShot By Neel 
+                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : Neel\n\t\t[\033[1;32m*\033[1;37m] WORK ONLY   : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : Neel \n\t\t[\033[1;32m*\033[1;37m] Version     : NeelRecoded \n\t\t[\033[1;32m*\033[1;37m] Telegram    : @BlankNameUser \n''')
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
@@ -1048,7 +1049,7 @@ def die(msg):
 
 def usage():
     return """
-FARHAN 0.0.2 (c) 2017 rofl0r (modified).
+NexShot 0.0.2 (c) 2017 rofl0r (modified).
 
 %(prog)s <arguments>
 
@@ -1195,12 +1196,12 @@ if __name__ == '__main__':
         except KeyboardInterrupt:
             if args.loop:
                 if input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower() == 'y':
-                    ani("\n[\033[1;31m!\033[1;37m] Create by farhan.🐸😁…")
+                    ani("\n[\033[1;31m!\033[1;37m] Recoded By Neel.…")
                     break
                 else:
                     args.bssid = None
             else:
-                ani("\n[\033[1;31m!\033[1;37m]Create by farhan.🐸😁…")
+                ani("\n[\033[1;31m!\033[1;37m]Recoded By Neel.…")
                 break
 
     if args.iface_down:
